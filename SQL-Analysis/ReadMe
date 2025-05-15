@@ -1,1 +1,10 @@
+💡 SQL Analysis
 
+The SQL analysis focuses on extracting key churn insights using the telecom dataset. 
+The queries cover customer segmentation, churn factor identification, and customer lifetime analysis. Here are the main analysis steps:
+
+Customer Segmentation: Identification of high-risk customer groups based on contract type, payment method, and service usage.
+
+Churn Factor Identification: Analysis of tenure, monthly charges, and support interactions to pinpoint key drivers.
+
+Customer Lifetime Analysis: Understanding the relationship between customer tenure and churn behavior.
