@@ -1,0 +1,16 @@
+.
+
+📊 Power BI Analysis
+
+The Power BI analysis includes interactive dashboards designed to provide a comprehensive view of customer churn behavior and risk factors.
+ 
+Key features include:
+
+Customer Churn Breakdown: Visual representation of churn rates by contract type, payment method, and service usage to identify high-risk groups.
+
+Churn Drivers: Heatmaps and bar charts to visualize the impact of monthly charges, tenure, and support interactions on churn rates.
+
+Customer Retention Insights: Analysis of customer support tickets and satisfaction levels to uncover potential retention opportunities.
+
+Geographic Churn Analysis: Regional churn trends to identify high-risk areas and target retention efforts effectively.
+
